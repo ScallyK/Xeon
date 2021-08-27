@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ARVideoKit",
+        "repositoryURL": "https://github.com/AFathi/ARVideoKit",
+        "state": {
+          "branch": null,
+          "revision": "8eabd3193125812439ac82dc81bf99dc79886722",
+          "version": "1.6.0"
+        }
+      },
+      {
+        "package": "CSV.swift",
+        "repositoryURL": "https://github.com/yaslab/CSV.swift",
+        "state": {
+          "branch": null,
+          "revision": "81d2874c51db364d7e1d71b0d99018a294c87ac1",
+          "version": "2.4.3"
+        }
+      },
+      {
+        "package": "EyeTrackKit",
+        "repositoryURL": "https://github.com/ukitomato/EyeTrackKit",
+        "state": {
+          "branch": null,
+          "revision": "d40b9f3b12c512286c8a61108f16b4cded953ce0",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "Resolver",
+        "repositoryURL": "https://github.com/hmlongco/Resolver",
+        "state": {
+          "branch": null,
+          "revision": "48e26b8fdf22877cd89b4a1f3927a56cc9f34d46",
+          "version": "1.4.3"
+        }
+      },
+      {
+        "package": "SwiftySound",
+        "repositoryURL": "https://github.com/adamcichy/SwiftySound.git",
+        "state": {
+          "branch": null,
+          "revision": "ae69bc63b12a431e75963381ef8f926c4c8b7993",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "Wink",
+        "repositoryURL": "https://github.com/toupper/Wink.git",
+        "state": {
+          "branch": null,
+          "revision": "dce36823c49b6e726dd4a6e4f365e1c54e200908",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
